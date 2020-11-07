@@ -5,23 +5,21 @@
 <h3>Docker Nedir?</h3>
 Docker, uygulamalarınızı hızla derlemenize, test etmenize ve dağıtmanıza imkan tanıyan bir yazılım platformudur.
 
-Docker Container Nedir? 
+<h3>Docker Container Nedir?</h3>
 Docker Container'lar docker imajlarının çalışan örnekleridir. Bir imajı çalıştırmak bir docker container oluşturur. İmajlar container oluşturmakta kullanılabilecek bir şablon sağlar. Container oluşturmak için neyin gerektiğinin bilgisini içerirler. İmajlar yerel olarak veya uzakta depolanabilir.
 
-Docker Image Nedir:
+<h3>Docker Image Nedir?</h3>
 Docker image adından da anlaşılacağı gibi çalışacak uygulamanızın ve uygulamanızın altyapısında çalışan gerekli işletim sistemi kütüphanelerinin bulunduğu bir yapıdır. İmajları, container yaratmak için gereken talimatların bulunduğu bir şablon olarak düşünebiliriz. docker image build komutu ile bir Dockerfile üzerinden oluşturduğumuz yapılardır.
 
-Docker Registry Nedir:
+<h3>Docker Registry Nedir?</h3>
 İmajların tutulduğu ve dağıtıldığı bir ortamdır. Aynı Github'da olduğu gibi elimizdeki imajları docker registry'sine push edebilir veya daha önceden yüklenmiş olan bir docker imajı kendi localimize çekebiliriz. Bu sayede ihtiyaçlarınızı karşılayacak bir imaja çok hızlı bir şekilde erişebilir, gerekirse üzerinde değişiklik yapabilir ve tag'leyerek farklı bir versiyon olarak yeniden gönderebiliriz.
 
 
-.Net 5 geçilme ihtiyaçları nelerdir?
+<h3>.Net 5 geçilme ihtiyaçları nelerdir?</h3>
 
-Büyük değişiklikler için büyük hazırlık süreçleri gerekir, günlük hayatta her zaman kurulan yapıları, üretilen çözümleri güncellemek zorunda olduğumuz bir mesleğin içerisindeyiz.
-.Net Core ile platformlar arası bir geçişe başlayan Microsoft .Net 5 ile
-yeniden bir araya geliyor.
-.Net dünyasını yakın zamanda bekleyen 2 büyük release vardı, .Net Core 3.0 ve .Net 5.
-.Net Core 3.0 versiyonu tamamlandı, şimdi sıra .Net 5'de.
+<p>Büyük değişiklikler için büyük hazırlık süreçleri gerekir, günlük hayatta her zaman kurulan yapıları, üretilen çözümleri güncellemek zorunda olduğumuz bir mesleğin içerisindeyiz.
+.Net Core ile platformlar arası bir geçişe başlayan Microsoft .Net 5 ile yeniden bir araya geliyor.
+.Net dünyasını yakın zamanda bekleyen 2 büyük release vardı, .Net Core 3.0 ve .Net 5., .Net Core 3.0 versiyonu tamamlandı, şimdi sıra .Net 5'de.
 Aslında bu geçiş aşamasında .Net Core 3 ve 3.1 versiyonları bence en önemli ve en değerli versiyonlardı.Köprüden önceki son çıkış gibi düşünebilirsiniz. :)
 .Net Core 3.x versiyonunda gRPC, Blazor gibi yeni özelliklerini pazara çıkartan Microsoft, benim gözlemlerim doğrultusunda oldukça başarılı oldu diyebilirim. Çünkü .Net Core 3 .Net’in en hızlı kabul gören versiyonu oldu.
 Temel olarak .Net 5 ile hedeflenen, .Net Core, .Net Framework, Xamarin ve Mono’nun avantajlarını tek bir çatı altında toplamaktır.
@@ -33,7 +31,7 @@ Release tarihi olarak şu anda planlanan tarih Kasım 2020 ancak Preview versiyo
 Her yeni sürümde olduğu gibi performans iyileştirmeleri mevcut tabi.
 BCL’de daha hızlı algoritmaların yanı sıra HTTP3 desteğide .Net 5 ile .Net dünyasına giriş yapacaktır.
 Game Development
-.Net 5 mobil, Xbox ve diğer oyun platformları için oyun geliştirebileceğiniz unity’yi destekleyecek.
+.Net 5 mobil, Xbox ve diğer oyun platformları için oyun geliştirebileceğiniz unity’yi destekleyecek.</p>
 
 
 .Net Core versiyonları ve bu versiyonlar arasındaki farklar
@@ -61,16 +59,16 @@ Yazılım alanında takip ettiğiniz kişiler kimlerdir?
   <li>Yazılım Bilimi <a href="https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ" target="_blank">Yazılım Bilimi  Youtube</a></li> 
 </ul>
 
-Markdown yazımı ve kullanımı
+<h3>Markdown yazımı ve kullanımı</h3>
 
-Tanım
+<strong>Tanım</strong>
 2004 yılında John Gruber ve Aaron Swartz tarafından geliştirilen bir yazım formatıdır. En basit tanımıyla text-to-HTML yani yazıyı HTML'e çevirmemizi sağlar.
 
 Markdown formatı ile yazarken herhangi bir html etiketi yazmayız, markdown'ın syntax'ına uygun şekilde yazarız ve kulladığımız front-end ya da back-end dili ile bunu parse ederek html çıktısını alırız. Böylece yazan kişininde hata payı minimuma iner, daha okunaklı bir yazım tarzı oluşur.
 
 Gelin html'de yazdığımız şekilde markdown'da nasıl yazarız temel olarak inceleyelim.
 
-Kullanımı
+<strong>Kullanımı</strong>
 
 <img src="https://images.dnomia.com/ceaksan/r-markdown.jpg" alt="Markdown" title="Markdown Trendline">
 
