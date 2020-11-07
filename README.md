@@ -1,4 +1,4 @@
-<h1>I. HAFTA ÖDEVİ</h1>
+<h1 style="background-color:powderblue;">I. HAFTA ÖDEVİ</h1>
 <h3> Hackerrank Profiim</h3>
 <a href="https://www.hackerrank.com/onur753_com" target="_blank">Hackerrank</a>
 
@@ -34,23 +34,23 @@ Game Development
 .Net 5 mobil, Xbox ve diğer oyun platformları için oyun geliştirebileceğiniz unity’yi destekleyecek.</p>
 
 
-.Net Core versiyonları ve bu versiyonlar arasındaki farklar
+<h3>.Net Core versiyonları ve bu versiyonlar arasındaki farklar</h3>
 
-.Net Core 2.0:
+<strong>.Net Core 2.0:</strong>
 
-1.NETStandard2'ye inanılmaz sayıda API eklenmiştir.
+1. NETStandard2'ye inanılmaz sayıda API eklenmiştir.
 
-2.SUSE ile desteklenen platform serisine heyecan verici bir eklentimiz var. Debian ve Fedora, son zamanlarda 2.0'da da desteklenen güncellemeleri yayınladı.
+2. SUSE ile desteklenen platform serisine heyecan verici bir eklentimiz var. Debian ve Fedora, son zamanlarda 2.0'da da desteklenen güncellemeleri yayınladı.
 
-3.Yükleyici Paket Adı Değişiklikleri
+3. Yükleyici Paket Adı Değişiklikleri
 
-4.C# ve F#'ı desteklemektedir.
+4. C# ve F#'ı desteklemektedir.
 
-5..NET Core Visual Basic 2017'yi desteklemektedir.
+5. NET Core Visual Basic 2017'yi desteklemektedir.
 
-.Net Core 3.0:
+<strong>.Net Core 3.0:</strong>
 
-1.En büyük geliştirmelerden biri, Windows Masaüstü uygulamaları için destek içerir (yalnızca Windows). .NET Core 3.0 SDK bileşeni Windows Masaüstünü kullanarak Windows Forms ve Windows Presentation Foundation (WPF) uygulamalarınızın bağlantı noktası oluşturabilirsiniz.
+1. En büyük geliştirmelerden biri, Windows Masaüstü uygulamaları için destek içerir (yalnızca Windows). .NET Core 3.0 SDK bileşeni Windows Masaüstünü kullanarak Windows Forms ve Windows Presentation Foundation (WPF) uygulamalarınızın bağlantı noktası oluşturabilirsiniz.
 
 
 Yazılım alanında takip ettiğiniz kişiler kimlerdir?
