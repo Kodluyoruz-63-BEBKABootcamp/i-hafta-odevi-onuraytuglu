@@ -1,4 +1,4 @@
-<h1 style="background-color:powderblue;">I. HAFTA ÖDEVİ</h1>
+<h1 style="background-color:#b3b3ff;">I. HAFTA ÖDEVİ</h1>
 <h3> Hackerrank Profiim</h3>
 <a href="https://www.hackerrank.com/onur753_com" target="_blank">Hackerrank</a>
 
