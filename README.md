@@ -1,6 +1,6 @@
 <h1>I. HAFTA ÖDEVİ</h1>
-<h3https://www.hackerrank.com/onur753_com Profiim</h3>
-<a href="https://www.hackerrank.com/onur753_com" target="_blank">https://www.hackerrank.com/onur753_com</a>
+<h3> Hackerrank Profiim</h3>
+<a href="https://www.hackerrank.com/onur753_com" target="_blank">https://www.hackerrank.com/onur753_com>Hackerrank</a>
 
 Docker Nedir? 
 Docker, uygulamalarınızı hızla derlemenize, test etmenize ve dağıtmanıza imkan tanıyan bir yazılım platformudur.
@@ -56,8 +56,10 @@ Game Development
 
 
 Yazılım alanında takip ettiğiniz kişiler kimlerdir?
-Atil SAMANCIOĞLU <a href="https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ" target="_blank">Atil SAMANCIOĞLU Youtube</a>
-Yazılım Bilimi <a href="https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ" target="_blank">Yazılım Bilimi  Youtube</a>
+<ul>
+  <li>Atil SAMANCIOĞLU <a href="https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ" target="_blank">Atil SAMANCIOĞLU Youtube</a></li>
+  <li>Yazılım Bilimi <a href="https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ" target="_blank">Yazılım Bilimi  Youtube</a></li> 
+</ul>
 
 Markdown yazımı ve kullanımı
 
