@@ -1,6 +1,6 @@
 <h1>I. HAFTA ÖDEVİ</h1>
 <h3> Hackerrank Profiim</h3>
-<a href="https://www.hackerrank.com/onur753_com" target="_blank">https://www.hackerrank.com/onur753_com>Hackerrank</a>
+<a href="https://www.hackerrank.com/onur753_com" target="_blank">Hackerrank</a>
 
 Docker Nedir? 
 Docker, uygulamalarınızı hızla derlemenize, test etmenize ve dağıtmanıza imkan tanıyan bir yazılım platformudur.
